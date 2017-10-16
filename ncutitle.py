@@ -12,7 +12,4 @@ print(title)
 print('南大要闻：')
 for new in news:
 	print('-',new.get_text())
-	
-
-Creating a new branch is quick and simple.
-
+Hello , World
