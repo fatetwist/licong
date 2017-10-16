@@ -13,8 +13,6 @@ print('南大要闻：')
 for new in news:
 	print('-',new.get_text())
 	
-<<<<<<< HEAD
+
 Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick and simple.
->>>>>>> feature1
+
