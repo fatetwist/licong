@@ -12,4 +12,3 @@ print(title)
 print('南大要闻：')
 for new in news:
 	print('-',new.get_text())
-Hello , World
